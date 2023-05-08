@@ -1,0 +1,12 @@
+h1 {
+    white-space: pre;
+}
+
+[id="19"] {
+    color: #00aeff;
+    font-family: "Agency FB";
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: black 2px 2px 2px;
+    line-height: 30px;
+}
